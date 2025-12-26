@@ -40,6 +40,10 @@ a {
   color: var(--yellow);
 }
 
+strong {
+  color: var(--green);
+}
+
 ul li::marker {
   color: var(--orange);
 }

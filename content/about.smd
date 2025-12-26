@@ -11,16 +11,14 @@
 ### <green>[company]</green>
 <blue><ins>swe</ins> (jun '25 - present)</blue>
 
-built and mantained unreal engine 5 plugins for a company in the automotive sector.
+worked as an unreal engine 5 tools developer for a big company in the automative sector. created plugins to
+extend engine capabilities and developed simulation tools.
 
 <blue><ins>intern</ins> (feb '25 - jun '25)</blue>
 
-worked with a designer to build a 3d design system for vr applications in unreal engine 5.
+worked with a designer to build a 3d design system for 3d and vr applications in unreal engine 5.
 
 ## education
-
-### <green>master's in critical computing systems engineering</green>
-<blue><ins>isep</ins> (sep '25 - jun '27)</blue>
 
 ### <green>bachelor's in software engineering</green>
 <blue><ins>isep</ins> (sep '22 - jun '25)</blue>
@@ -38,15 +36,17 @@ a functional chip-8 emulator written in c with sdl.
 
 ## tools
 
-<green>programming languages:</green> zig, c, c++, lua
+<green>programming languages:</green> c, c++, zig, lua, python
 
-<green>frameworks/libraries:</green> raylib, sdl
+<green>frameworks/libraries:</green> cuda, vulkan, raylib, sokol, sdl, pufferlib
 
-<green>code editors:</green> vscode, neovim (btw)
+<green>game engines:</green> unreal engine 5
 
-<green>os:</green> macos (main), windows 11, arch linux
+<green>code editors:</green> neovim (btw), zed and rider
 
-<green>art:</green> aseprite, blender
+<green>os:</green> macos, windows 11 and linux (fedora)
+
+<green>art:</green> aseprite, blockbench
 
 ## contacts
 
@@ -55,5 +55,3 @@ a functional chip-8 emulator written in c with sdl.
 <green>x/twtr:</green> @robinssecret
 
 <green>email:</green> secretrobin95@gmail.com
-
-

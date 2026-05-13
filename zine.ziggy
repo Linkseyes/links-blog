@@ -1,6 +1,6 @@
 Site {
-    .title = "Links' still in progress blog",
-    .host_url = "https://links.dev",
+    .title = "Colega Links' dev blog",
+    .host_url = "https://colega_links.dev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",

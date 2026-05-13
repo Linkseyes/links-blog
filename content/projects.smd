@@ -1,0 +1,12 @@
+---
+.title = "Projects",
+.date = @date("2026-04-27"),
+.author = "links",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+### <green>Scoudrel2D</green>
+<blue><ins>[github link](https://github.com/Linkseyes/Scoundrel2d)</ins></blue>
+
+A 2D version of the card game Scoundrel, made in Godot.

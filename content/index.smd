@@ -1,17 +1,17 @@
 ---
-.title = "hello, world",
-.date = @date("2025-08-17"),
-.author = "rowobin",
+.title = "Hello World!",
+.date = @date("2026-04-27"),
+.author = "links",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
 []($section.attrs('two-cols'))
 
-my name is robin. i'm a 21y/o tools developer from portugal. i love games programming and hardware.
+My name is Links. I'm a 21y/o game developer from Portugal. I love programming, watching anime and play videogames.
 <br><br>
-this is my personal website. feel free to check out my [blog posts](/blog) about projects, interests and opinions.
+This is my personal website, made from a fork of [rowobin.dev](https://rowobin.dev/), go check her out. Feel free to check out my [blog posts](/blog) about my current and upcoming projects.
 <br><br>
-[github](https://github.com/Rowobin) [x/twtr](https://x.com/RobinsSecret)
+[github](https://github.com/Linkseyes) [x/twtr](https://x.com/colega_links)
 
 [](<$image.siteAsset("bus-station.png")>)

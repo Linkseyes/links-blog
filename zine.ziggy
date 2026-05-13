@@ -1,6 +1,6 @@
 Site {
-    .title = "robin's secret blog",
-    .host_url = "https://rowobin.dev",
+    .title = "Links' still in progress blog",
+    .host_url = "https://links.dev",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",

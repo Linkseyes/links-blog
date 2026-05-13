@@ -1,0 +1,82 @@
+---
+.title = "The beta release of Scoundrel 2D",
+.date = @date("2026-05-06"),
+.author = "links",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+[](<$image.asset("scoundrel-2d.png") >)
+
+# Introduction
+
+After finishing college and taking a break, I decided to follow my passion and start making games.
+
+During that same time, I had been playing the card game Scoundrel with an old deck of cards and trying to beat it. That’s when I thought to myself, *“I wish there was an easier way to shuffle this deck, distribute cards, and keep track of health!”*
+
+It then took two days for Mr. Links to remember that he could use Scoundrel as the base for the game he wanted to make :/
+
+And that’s how I decided to transform the card game Scoundrel into a video game!
+
+
+# How I Decided to Make the Game
+
+Prior to this project, my friend [Robin](https://x.com/RobinsSecret) had been talking a lot about Godot, so naturally I wanted to try it out. When I mentioned this project to her, she also said that Godot’s documentation was really good and that I should check it out.
+
+I took that as a challenge and decided to add a rule to this project:
+
+- No looking up YouTube tutorials — rely exclusively on Godot’s documentation, Reddit threads, and forums for this project.
+
+*(I would “break” the spirit of this rule on the first day of the project.)*
+
+
+# The Process of Making the Game
+
+Godot’s documentation has a 2D game tutorial that I used to learn the basics of the engine. Since Godot has a workflow similar to Unity, with nodes and scripts acting like components, I was able to build a basic skeleton of the game pretty quickly.
+
+This included the core mechanics of the game:
+
+- A deck of cards that places cards in 4 designated positions
+- The ability to draw 3 more cards from the top of the deck after 3 cards have been used
+- The ability to reshuffle the current 4 cards back into the deck
+- The player defeats monster cards and loses HP
+- The player can equip armor cards to reduce damage taken
+- The player can heal using potion cards
+- The player loses when the HP bar reaches 0
+- The player wins after defeating all monster cards
+
+
+# Where I Stopped
+
+I am not an art person!!
+
+As I tried going for a pixel art aesthetic, I was once again reminded of my Achilles’ heel: art (of any kind). I currently struggle to create basic drawings and animate them properly.
+
+While facing this brick wall, I decided to make this beta release of the game using free art assets from artists on itch.io:
+
+- [Clockwork Raven](https://clockworkraven.itch.io/raven-fantasy-icons) on itch.io for the Armor and Potion icons
+- [Arex_V](https://arex-v.itch.io/damp-dungeons) on itch.io for the Tileset and Monsters
+- [Androx](https://byandrox.itch.io/pixel-art-rpg-gui) on itch.io for the HP Bars
+- [TimberwolfGames](https://timberwolfgames.itch.io/playingcards) on itsch.io for the cards
+
+This decision was also made so I could get feedback on the game from friends, family, and anyone interested, while giving myself time to improve as an artist and better understand Godot’s animation nodes.
+
+
+# Final Thoughts and Future Work
+
+Even though it’s a simple game, I am absolutely loving this journey, and I’m confident that I can build something fun for people to enjoy.
+
+As for the future of the project, I am currently bug hunting and fixing issues, while also working on animations and creating my own art. In the future, I also want to export the game to more platforms, such as macOS and Web, to make it available to as many people as possible.
+
+At the moment, the main feedback I’m looking for is:
+- Bug reports
+- General gameplay feedback
+- Suggestions for artistic direction and game feel
+
+For example, a friend suggested adding a fade-to-black transition after losing a run, which I thought was a really cool idea.
+
+If you want to help with the project, feel free to download the game and provide any kind of feedback:
+
+https://github.com/Linkseyes/Scoundrel2d/releases/tag/v1.0.0-beta
+
+This is the end of my first blog post. I hope you didn’t find it too boring, and I’ll see you next time :P

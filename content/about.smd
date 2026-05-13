@@ -1,57 +1,34 @@
 ---
-.title = "about me",
-.date = @date("2025-08-17"),
-.author = "rowobin",
+.title = "About me",
+.date = @date("2026-04-27"),
+.author = "links",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-## work
+## Work
 
-### <green>[company]</green>
-<blue><ins>swe</ins> (jun '25 - present)</blue>
+<blue><ins>Intern</ins> (may '25 - jun '25)</blue>
 
-worked as an unreal engine 5 tools developer for a big company in the automative sector. created plugins to
-extend engine capabilities and developed simulation tools.
+Worked as an Unity developer for a big company in the telecomunication sector. Worked in a team to help create a 3d game that served as a portfolio for the company.
 
-<blue><ins>intern</ins> (feb '25 - jun '25)</blue>
+## Education
 
-worked with a designer to build a 3d design system for 3d and vr applications in unreal engine 5.
+### <green>Bachelor's in software engineering</green>
+<blue><ins>ISEP</ins> (sep '22 - jun '25)</blue>
 
-## education
+## Tools
 
-### <green>bachelor's in software engineering</green>
-<blue><ins>isep</ins> (sep '22 - jun '25)</blue>
+<green>Programming languages:</green> python, C#, GDScript, C
 
-## projects
-### <green>zterm</green>
-<blue><ins>[github link](https://github.com/Rowobin/zterm)</ins></blue>
+<green>Game engines:</green> Unity, Godot
 
-a low-level terminal manipulation library in zig.
+<green>OS:</green> Windows 11 and Linux (fedora)
 
-### <green>chip-8 emulator</green>
-<blue><ins>[github link](https://github.com/Rowobin/CHIP8-Emulator-C)</ins></blue>
+<green>Art:</green> Aseprite
 
-a functional chip-8 emulator written in c with sdl.
+## Contacts
 
-## tools
+<green>Discord:</green> links0671
 
-<green>programming languages:</green> c, c++, zig, lua, python
-
-<green>frameworks/libraries:</green> cuda, vulkan, raylib, sokol, sdl, pufferlib
-
-<green>game engines:</green> unreal engine 5
-
-<green>code editors:</green> neovim (btw), zed and rider
-
-<green>os:</green> macos, windows 11 and linux (fedora)
-
-<green>art:</green> aseprite, blockbench
-
-## contacts
-
-<green>discord:</green> rowobin
-
-<green>x/twtr:</green> @robinssecret
-
-<green>email:</green> secretrobin95@gmail.com
+<green>Email:</green> luisfrpcordeiro@gmail.com

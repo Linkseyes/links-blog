@@ -1,7 +1,7 @@
 ---
-.title = "blog",
-.date = @date("2025-08-17"),
-.author = "rowobin",
+.title = "Blog",
+.date = @date("2026-04-27"),
+.author = "links",
 .layout = "blog.shtml",
 .draft = false,
---- 
+---  
